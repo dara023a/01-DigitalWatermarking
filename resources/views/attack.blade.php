@@ -60,6 +60,8 @@
                   <option value="resize" {{ old('attack_type', $run['attack_type'] ?? '') === 'resize' ? 'selected' : '' }}>Resize murni</option>
                   <option value="pure_crop" {{ old('attack_type', $run['attack_type'] ?? '') === 'pure_crop' ? 'selected' : '' }}>Pure crop</option>
                   <option value="crop_resize_back" {{ old('attack_type', $run['attack_type'] ?? '') === 'crop_resize_back' ? 'selected' : '' }}>Crop lalu resize balik</option>
+                  <option value="gaussian_noise" {{ old('attack_type', $run['attack_type'] ?? '') === 'gaussian_noise' ? 'selected' : '' }}>Gaussian noise</option>
+                  <option value="brightness_contrast" {{ old('attack_type', $run['attack_type'] ?? '') === 'brightness_contrast' ? 'selected' : '' }}>Brightness & Contrast</option>
                 </select>
               </div>
 
@@ -76,6 +78,26 @@
               <div class="field attack-param" data-attack="pure_crop,crop_resize_back">
                 <label>Crop dari Setiap Sisi (%)</label>
                 <input type="number" name="crop_percent" min="0" max="99.99" step="any" value="{{ old('crop_percent', 10) }}" placeholder="cth: 10">
+              </div>
+
+              <div class="field attack-param" data-attack="gaussian_noise">
+                <label>Sigma Gaussian Noise</label>
+                <input type="number" name="sigma" min="0" step="any" value="{{ old('sigma', 10) }}" placeholder="cth: 10">
+              </div>
+
+              <div class="field attack-param" data-attack="gaussian_noise">
+                <label>Seed (opsional, untuk reproducibility)</label>
+                <input type="number" name="seed" value="{{ old('seed') }}" placeholder="cth: 42">
+              </div>
+
+              <div class="field attack-param" data-attack="brightness_contrast">
+                <label>Alpha / Contrast (gt: 0)</label>
+                <input type="number" name="brightness_alpha" min="0" step="any" value="{{ old('brightness_alpha', 1.2) }}" placeholder="cth: 1.2">
+              </div>
+
+              <div class="field attack-param" data-attack="brightness_contrast">
+                <label>Beta / Brightness</label>
+                <input type="number" name="brightness_beta" step="any" value="{{ old('brightness_beta', 20) }}" placeholder="cth: 20">
               </div>
 
               <button class="btn btn-primary" type="submit" style="margin-top:14px">Terapkan Attack</button>
@@ -122,7 +144,9 @@
                     jpeg: 'JPEG Compression',
                     resize: 'Resize Murni',
                     pure_crop: 'Pure Crop',
-                    crop_resize_back: 'Crop lalu Resize Balik'
+                    crop_resize_back: 'Crop lalu Resize Balik',
+                    gaussian_noise: 'Gaussian Noise',
+                    brightness_contrast: 'Brightness & Contrast'
                 };
                 atkNode.textContent = labels[selected] || 'Parameter Attack';
             }

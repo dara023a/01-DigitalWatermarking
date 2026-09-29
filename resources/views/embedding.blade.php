@@ -51,9 +51,9 @@
             </div>
 
             <div class="field">
-              <label>Redundancy</label>
-              <input type="number" name="redundancy" min="1" value="{{ old('redundancy', 1) }}">
-              <small style="color:var(--slate);font-size:12px;display:block;margin-top:2px">Default engine: 1.</small>
+              <label>Redundancy (3-15)</label>
+              <input type="number" name="redundancy" min="3" max="15" value="{{ old('redundancy', 3) }}" required>
+              <small style="color:var(--slate);font-size:12px;display:block;margin-top:2px">Default: 3. Semakin tinggi semakin tahan crop, tetapi kapasitas berkurang.</small>
             </div>
 
             <div class="field">
