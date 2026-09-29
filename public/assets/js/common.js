@@ -45,3 +45,12 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+// Toggle password visibility
+function togglePasswordVisibility(inputId, btn) {
+    const input = document.getElementById(inputId);
+    if (!input) return;
+    const isPassword = input.type === 'password';
+    input.type = isPassword ? 'text' : 'password';
+    btn.style.color = isPassword ? '#2F6FEF' : '';
+}

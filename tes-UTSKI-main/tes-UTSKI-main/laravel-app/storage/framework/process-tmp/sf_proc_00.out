@@ -1,0 +1,1 @@
+{"ok": true, "metrics": {"psnr": 33.31792624255626, "ssim": 0.8266468565542359, "ncc": 0.1800275495823005, "ber": 0.567138671875}, "attack_type": "brightness_contrast", "parameter": "alpha=1.8, beta=5"}
