@@ -59,13 +59,19 @@
                 <td>{{ strtoupper(str_replace('_', ' ', $row['attack_type'])) }}</td>
                 <td>{{ $row['parameter'] }}</td>
                 <td>{{ $row['psnr'] === 'inf' ? '∞' : number_format((float) $row['psnr'], 2) . ' dB' }}</td>
-                <td>{{ number_format((float) $row['ssim'], 4) }}</td>
-                <td>{{ number_format((float) $row['ncc'], 4) }}</td>
-                <td>{{ number_format((float) $row['ber'] * 100, 2) }}%</td>
+                <td>{{ $row['ssim'] === 'N/A' ? 'N/A' : number_format((float) $row['ssim'], 4) }}</td>
+                <td>{{ $row['ncc'] === 'N/A' ? 'N/A' : number_format((float) $row['ncc'], 4) }}</td>
+                <td>{{ $row['ber'] === 'N/A' ? 'N/A' : number_format((float) $row['ber'] * 100, 2) . '%' }}</td>
                 <td>
-                  <span class="status-pill {{ ((float)$row['ncc'] >= 0.75) ? 'ok' : (((float)$row['ncc'] >= 0.5) ? 'warn' : 'err') }}">
-                    {{ ((float)$row['ncc'] >= 0.75) ? 'Terdeteksi' : (((float)$row['ncc'] >= 0.5) ? 'Melemah' : 'Gagal') }}
-                  </span>
+                  @if ($row['ncc'] === 'N/A')
+                    <span class="status-pill warn">N/A</span>
+                  @elseif ((float)$row['ncc'] >= 0.75)
+                    <span class="status-pill ok">Terdeteksi</span>
+                  @elseif ((float)$row['ncc'] >= 0.40)
+                    <span class="status-pill warn">Melemah</span>
+                  @else
+                    <span class="status-pill err">Gagal</span>
+                  @endif
                 </td>
               </tr>
             @endforeach
@@ -86,20 +92,20 @@
           <div class="lbl2">PSNR (dB)</div>
         </div>
         <div class="metric">
-          <div class="num">{{ number_format((float) $latest['ssim'], 4) }}</div>
+          <div class="num">{{ $latest['ssim'] === 'N/A' ? 'N/A' : number_format((float) $latest['ssim'], 4) }}</div>
           <div class="lbl2">SSIM</div>
         </div>
         <div class="metric">
-          <div class="num">{{ number_format((float) $latest['ncc'], 4) }}</div>
+          <div class="num">{{ $latest['ncc'] === 'N/A' ? 'N/A' : number_format((float) $latest['ncc'], 4) }}</div>
           <div class="lbl2">NC</div>
         </div>
         <div class="metric">
-          <div class="num">{{ number_format((float) $latest['ber'] * 100, 2) }}%</div>
+          <div class="num">{{ $latest['ber'] === 'N/A' ? 'N/A' : number_format((float) $latest['ber'] * 100, 2) . '%' }}</div>
           <div class="lbl2">BER</div>
         </div>
       </div>
 
-      @if ($run && !empty($run['extracted_image']))
+      @if ($run && (!empty($run['extracted_image']) || !empty($run['extracted_images'])))
         <div style="display:flex;gap:12px;margin-top:24px;flex-wrap:wrap">
           <a class="btn btn-outline btn-sm" href="{{ route('artifacts.show', ['kind' => 'attacked']) }}" download="attacked.png">Unduh Attacked Image</a>
           <a class="btn btn-outline btn-sm" href="{{ route('artifacts.show', ['kind' => 'extracted']) }}" download="extracted-watermark.png">Unduh Extracted Watermark</a>
