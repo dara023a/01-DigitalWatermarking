@@ -32,10 +32,11 @@ yang sebenarnya dipakai di proyek ini (default 255.0 untuk grayscale
 8-bit). SSIM dua gambar identik = 1.0 (dijamin oleh definisi metrik
 itu sendiri, bukan dihitung manual di sini).
 
-### NCC / NC (Normalized Cross-Correlation — Zero-Mean / Pearson)
+### NCC / NC (Normalized Cross-Correlation -- Zero-Mean / Pearson)
 Mengikuti definisi Pearson normalized correlation:
 
-    NC = sum((A-mean(A)) * (B-mean(B))) / sqrt( sum((A-mean(A))^2) * sum((B-mean(B))^2) )
+    NC = sum((A-mean(A)) * (B-mean(B))) / sqrt(
+             sum((A-mean(A))^2) * sum((B-mean(B))^2) )
 
 di mana A = original watermark (flatten, float), B = extracted watermark
 (flatten, float). Formula ini MENGURANGI mean sebelum perkalian (zero-mean),

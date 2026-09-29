@@ -1,0 +1,333 @@
+[Tue Sep 29 18:02:25 2026] PHP 8.4.25 Development Server (http://127.0.0.1:8000) started
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:20437 Accepted
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:20437 Closing
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:27331 Accepted
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:4173 Accepted
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:27331 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:4173 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:27331 Closing
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:4173 Closing
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:5454 Accepted
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:5454 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:05:35 2026] 127.0.0.1:5454 Closing
+[Tue Sep 29 18:05:48 2026] 127.0.0.1:33591 Accepted
+[Tue Sep 29 18:05:48 2026] 127.0.0.1:33591 Closing
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:39921 Accepted
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:39921 Closing
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:34980 Accepted
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:34980 Closing
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:47905 Accepted
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:9356 Accepted
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:47905 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:9356 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:47905 Closing
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:9356 Closing
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:34833 Accepted
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:34833 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:05:57 2026] 127.0.0.1:34833 Closing
+[Tue Sep 29 18:06:18 2026] 127.0.0.1:34867 Accepted
+[Tue Sep 29 18:06:18 2026] 127.0.0.1:34867 Closing
+[Tue Sep 29 18:06:48 2026] 127.0.0.1:34910 Accepted
+[Tue Sep 29 18:06:48 2026] 127.0.0.1:34910 Closing
+[Tue Sep 29 18:07:18 2026] 127.0.0.1:34945 Accepted
+[Tue Sep 29 18:07:18 2026] 127.0.0.1:34945 Closing
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:33601 Accepted
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:33601 Closing
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:60656 Accepted
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:35874 Accepted
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:25934 Accepted
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:8247 Accepted
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:60656 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:35874 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:25934 [200]: GET /assets/js/storage.js
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:8247 [200]: GET /assets/js/index.js
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:60656 Closing
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:35874 Closing
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:25934 Closing
+[Tue Sep 29 18:07:44 2026] 127.0.0.1:8247 Closing
+[Tue Sep 29 18:07:48 2026] 127.0.0.1:8254 Accepted
+[Tue Sep 29 18:07:48 2026] 127.0.0.1:8254 Closing
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:28065 Accepted
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:28065 Closing
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:30804 Accepted
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:9009 Accepted
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:30804 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:9009 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:30804 Closing
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:9009 Closing
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:34116 Accepted
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:34116 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:07:53 2026] 127.0.0.1:34116 Closing
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:14696 Accepted
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:14696 Closing
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:14219 Accepted
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:14219 Closing
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:54673 Accepted
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:31730 Accepted
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:54673 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:31730 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:54673 Closing
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:31730 Closing
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:21638 Accepted
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:21638 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:08:12 2026] 127.0.0.1:21638 Closing
+[Tue Sep 29 18:08:18 2026] 127.0.0.1:21647 Accepted
+[Tue Sep 29 18:08:18 2026] 127.0.0.1:21647 Closing
+[Tue Sep 29 18:08:48 2026] 127.0.0.1:21685 Accepted
+[Tue Sep 29 18:08:48 2026] 127.0.0.1:21685 Closing
+[Tue Sep 29 18:09:18 2026] 127.0.0.1:21724 Accepted
+[Tue Sep 29 18:09:18 2026] 127.0.0.1:21724 Closing
+[Tue Sep 29 18:09:48 2026] 127.0.0.1:21760 Accepted
+[Tue Sep 29 18:09:48 2026] 127.0.0.1:21760 Closing
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:12685 Accepted
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:12685 Closing
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:1848 Accepted
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:38832 Accepted
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:1848 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:15015 Accepted
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:1848 Closing
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:1135 Accepted
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:38832 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:15015 [200]: GET /assets/js/storage.js
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:1135 [200]: GET /assets/js/index.js
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:38832 Closing
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:15015 Closing
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:1135 Closing
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:24596 Accepted
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:24596 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:10:09 2026] 127.0.0.1:24596 Closing
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:64173 Accepted
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:64173 Closing
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:50918 Accepted
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:50918 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:7479 Accepted
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:50918 Closing
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:7479 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:7479 Closing
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:10449 Accepted
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:10449 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:10:15 2026] 127.0.0.1:10449 Closing
+[Tue Sep 29 18:10:18 2026] 127.0.0.1:10457 Accepted
+[Tue Sep 29 18:10:18 2026] 127.0.0.1:10457 Closing
+[Tue Sep 29 18:10:34 2026] 127.0.0.1:13866 Accepted
+[Tue Sep 29 18:10:34 2026] 127.0.0.1:13866 Closing
+[Tue Sep 29 18:10:34 2026] 127.0.0.1:26179 Accepted
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:26179 Closing
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:18164 Accepted
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:38808 Accepted
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:18164 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:38808 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:18164 Closing
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:38808 Closing
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:55035 Accepted
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:55035 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:10:35 2026] 127.0.0.1:55035 Closing
+[Tue Sep 29 18:10:48 2026] 127.0.0.1:4991 Accepted
+[Tue Sep 29 18:10:48 2026] 127.0.0.1:4991 Closing
+[Tue Sep 29 18:11:18 2026] 127.0.0.1:5030 Accepted
+[Tue Sep 29 18:11:18 2026] 127.0.0.1:5030 Closing
+[Tue Sep 29 18:11:48 2026] 127.0.0.1:5065 Accepted
+[Tue Sep 29 18:11:48 2026] 127.0.0.1:5065 Closing
+[Tue Sep 29 18:12:18 2026] 127.0.0.1:5099 Accepted
+[Tue Sep 29 18:12:18 2026] 127.0.0.1:5099 Closing
+[Tue Sep 29 18:12:48 2026] 127.0.0.1:5132 Accepted
+[Tue Sep 29 18:12:48 2026] 127.0.0.1:5132 Closing
+[Tue Sep 29 18:13:18 2026] 127.0.0.1:5165 Accepted
+[Tue Sep 29 18:13:19 2026] 127.0.0.1:5165 Closing
+[Tue Sep 29 18:13:49 2026] 127.0.0.1:5198 Accepted
+[Tue Sep 29 18:13:49 2026] 127.0.0.1:5198 Closing
+[Tue Sep 29 18:14:19 2026] 127.0.0.1:5231 Accepted
+[Tue Sep 29 18:14:19 2026] 127.0.0.1:5231 Closing
+[Tue Sep 29 18:14:49 2026] 127.0.0.1:5264 Accepted
+[Tue Sep 29 18:14:49 2026] 127.0.0.1:5264 Closing
+[Tue Sep 29 18:15:19 2026] 127.0.0.1:16383 Accepted
+[Tue Sep 29 18:15:19 2026] 127.0.0.1:16383 Closing
+[Tue Sep 29 18:15:49 2026] 127.0.0.1:18571 Accepted
+[Tue Sep 29 18:15:49 2026] 127.0.0.1:18571 Closing
+[Tue Sep 29 18:16:19 2026] 127.0.0.1:18616 Accepted
+[Tue Sep 29 18:16:19 2026] 127.0.0.1:18616 Closing
+[Tue Sep 29 18:16:49 2026] 127.0.0.1:52424 Accepted
+[Tue Sep 29 18:16:49 2026] 127.0.0.1:52424 Closing
+[Tue Sep 29 18:17:19 2026] 127.0.0.1:52457 Accepted
+[Tue Sep 29 18:17:19 2026] 127.0.0.1:52457 Closing
+[Tue Sep 29 18:17:49 2026] 127.0.0.1:52490 Accepted
+[Tue Sep 29 18:17:49 2026] 127.0.0.1:52490 Closing
+[Tue Sep 29 18:18:19 2026] 127.0.0.1:23740 Accepted
+[Tue Sep 29 18:18:19 2026] 127.0.0.1:23740 Closing
+[Tue Sep 29 18:18:49 2026] 127.0.0.1:27771 Accepted
+[Tue Sep 29 18:18:49 2026] 127.0.0.1:27771 Closing
+[Tue Sep 29 18:19:19 2026] 127.0.0.1:27814 Accepted
+[Tue Sep 29 18:19:19 2026] 127.0.0.1:27814 Closing
+[Tue Sep 29 18:19:49 2026] 127.0.0.1:27850 Accepted
+[Tue Sep 29 18:19:49 2026] 127.0.0.1:27850 Closing
+[Tue Sep 29 18:20:19 2026] 127.0.0.1:27884 Accepted
+[Tue Sep 29 18:20:19 2026] 127.0.0.1:27884 Closing
+[Tue Sep 29 18:20:49 2026] 127.0.0.1:27919 Accepted
+[Tue Sep 29 18:20:49 2026] 127.0.0.1:27919 Closing
+[Tue Sep 29 18:21:19 2026] 127.0.0.1:56989 Accepted
+[Tue Sep 29 18:21:19 2026] 127.0.0.1:56989 Closing
+[Tue Sep 29 18:21:49 2026] 127.0.0.1:57027 Accepted
+[Tue Sep 29 18:21:49 2026] 127.0.0.1:57027 Closing
+[Tue Sep 29 18:22:19 2026] 127.0.0.1:57061 Accepted
+[Tue Sep 29 18:22:19 2026] 127.0.0.1:57061 Closing
+[Tue Sep 29 18:22:49 2026] 127.0.0.1:57096 Accepted
+[Tue Sep 29 18:22:49 2026] 127.0.0.1:57096 Closing
+[Tue Sep 29 18:23:19 2026] 127.0.0.1:57132 Accepted
+[Tue Sep 29 18:23:19 2026] 127.0.0.1:57132 Closing
+[Tue Sep 29 18:23:49 2026] 127.0.0.1:10719 Accepted
+[Tue Sep 29 18:23:49 2026] 127.0.0.1:10719 Closing
+[Tue Sep 29 18:24:19 2026] 127.0.0.1:10753 Accepted
+[Tue Sep 29 18:24:19 2026] 127.0.0.1:10753 Closing
+[Tue Sep 29 18:24:49 2026] 127.0.0.1:10786 Accepted
+[Tue Sep 29 18:24:49 2026] 127.0.0.1:10786 Closing
+[Tue Sep 29 18:25:19 2026] 127.0.0.1:10819 Accepted
+[Tue Sep 29 18:25:19 2026] 127.0.0.1:10819 Closing
+[Tue Sep 29 18:25:49 2026] 127.0.0.1:10853 Accepted
+[Tue Sep 29 18:25:49 2026] 127.0.0.1:10853 Closing
+[Tue Sep 29 18:26:19 2026] 127.0.0.1:23739 Accepted
+[Tue Sep 29 18:26:19 2026] 127.0.0.1:23739 Closing
+[Tue Sep 29 18:26:49 2026] 127.0.0.1:23776 Accepted
+[Tue Sep 29 18:26:50 2026] 127.0.0.1:23776 Closing
+[Tue Sep 29 18:27:20 2026] 127.0.0.1:23809 Accepted
+[Tue Sep 29 18:27:20 2026] 127.0.0.1:23809 Closing
+[Tue Sep 29 18:27:50 2026] 127.0.0.1:23843 Accepted
+[Tue Sep 29 18:27:50 2026] 127.0.0.1:23843 Closing
+[Tue Sep 29 18:28:20 2026] 127.0.0.1:23878 Accepted
+[Tue Sep 29 18:28:20 2026] 127.0.0.1:23878 Closing
+[Tue Sep 29 18:28:50 2026] 127.0.0.1:23911 Accepted
+[Tue Sep 29 18:28:50 2026] 127.0.0.1:23911 Closing
+[Tue Sep 29 18:29:20 2026] 127.0.0.1:52707 Accepted
+[Tue Sep 29 18:29:20 2026] 127.0.0.1:52707 Closing
+[Tue Sep 29 18:29:50 2026] 127.0.0.1:52740 Accepted
+[Tue Sep 29 18:29:50 2026] 127.0.0.1:52740 Closing
+[Tue Sep 29 18:30:20 2026] 127.0.0.1:52774 Accepted
+[Tue Sep 29 18:30:20 2026] 127.0.0.1:52774 Closing
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:44014 Accepted
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:44014 Closing
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:20186 Accepted
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:20186 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:60520 Accepted
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:60520 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:20186 Closing
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:60520 Closing
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:35789 Accepted
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:35789 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:30:46 2026] 127.0.0.1:35789 Closing
+[Tue Sep 29 18:30:50 2026] 127.0.0.1:46165 Accepted
+[Tue Sep 29 18:30:50 2026] 127.0.0.1:46165 Closing
+[Tue Sep 29 18:31:20 2026] 127.0.0.1:5221 Accepted
+[Tue Sep 29 18:31:20 2026] 127.0.0.1:5221 Closing
+[Tue Sep 29 18:31:50 2026] 127.0.0.1:5261 Accepted
+[Tue Sep 29 18:31:50 2026] 127.0.0.1:5261 Closing
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:55495 Accepted
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:55495 Closing
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:32573 Accepted
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:32573 Closing
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:15993 Accepted
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:15993 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:8485 Accepted
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:15993 Closing
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:8485 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:32:10 2026] 127.0.0.1:8485 Closing
+[Tue Sep 29 18:32:11 2026] 127.0.0.1:33962 Accepted
+[Tue Sep 29 18:32:11 2026] 127.0.0.1:33962 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:32:11 2026] 127.0.0.1:33962 Closing
+[Tue Sep 29 18:32:20 2026] 127.0.0.1:33975 Accepted
+[Tue Sep 29 18:32:20 2026] 127.0.0.1:33975 Closing
+[Tue Sep 29 18:32:50 2026] 127.0.0.1:34007 Accepted
+[Tue Sep 29 18:32:50 2026] 127.0.0.1:34007 Closing
+[Tue Sep 29 18:33:20 2026] 127.0.0.1:34045 Accepted
+[Tue Sep 29 18:33:20 2026] 127.0.0.1:34045 Closing
+[Tue Sep 29 18:33:50 2026] 127.0.0.1:34088 Accepted
+[Tue Sep 29 18:33:50 2026] 127.0.0.1:34088 Closing
+[Tue Sep 29 18:34:20 2026] 127.0.0.1:34122 Accepted
+[Tue Sep 29 18:34:20 2026] 127.0.0.1:34122 Closing
+[Tue Sep 29 18:34:50 2026] 127.0.0.1:34157 Accepted
+[Tue Sep 29 18:34:50 2026] 127.0.0.1:34157 Closing
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:25396 Accepted
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:25396 Closing
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:46320 Accepted
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:46441 Accepted
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:46320 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:46441 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:46320 Closing
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:46441 Closing
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:32111 Accepted
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:32111 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:34:51 2026] 127.0.0.1:32111 Closing
+[Tue Sep 29 18:35:13 2026] 127.0.0.1:61918 Accepted
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:61918 Closing
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:44874 Accepted
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:44874 Closing
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:9849 Accepted
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:9849 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:9849 Closing
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:37345 Accepted
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:37345 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:37345 Closing
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:37892 Accepted
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:37892 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:35:14 2026] 127.0.0.1:37892 Closing
+[Tue Sep 29 18:35:20 2026] 127.0.0.1:37901 Accepted
+[Tue Sep 29 18:35:20 2026] 127.0.0.1:37901 Closing
+[Tue Sep 29 18:35:50 2026] 127.0.0.1:37934 Accepted
+[Tue Sep 29 18:35:50 2026] 127.0.0.1:37934 Closing
+[Tue Sep 29 18:35:58 2026] 127.0.0.1:53212 Accepted
+[Tue Sep 29 18:35:58 2026] 127.0.0.1:53212 Closing
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:11426 Accepted
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:56433 Accepted
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:29285 Accepted
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:30038 Accepted
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:11426 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:56433 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:29285 [200]: GET /assets/js/storage.js
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:30038 [200]: GET /assets/js/index.js
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:11426 Closing
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:56433 Closing
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:29285 Closing
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:30038 Closing
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:65501 Accepted
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:65501 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:35:59 2026] 127.0.0.1:65501 Closing
+[Tue Sep 29 18:36:09 2026] 127.0.0.1:49504 Accepted
+[Tue Sep 29 18:36:09 2026] 127.0.0.1:49504 Closing
+[Tue Sep 29 18:36:10 2026] 127.0.0.1:61296 Accepted
+[Tue Sep 29 18:36:10 2026] 127.0.0.1:62226 Accepted
+[Tue Sep 29 18:36:10 2026] 127.0.0.1:61296 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:36:10 2026] 127.0.0.1:62226 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:36:10 2026] 127.0.0.1:61296 Closing
+[Tue Sep 29 18:36:10 2026] 127.0.0.1:62226 Closing
+[Tue Sep 29 18:36:10 2026] 127.0.0.1:26260 Accepted
+[Tue Sep 29 18:36:10 2026] 127.0.0.1:26260 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:36:10 2026] 127.0.0.1:26260 Closing
+[Tue Sep 29 18:36:20 2026] 127.0.0.1:26276 Accepted
+[Tue Sep 29 18:36:20 2026] 127.0.0.1:26276 Closing
+[Tue Sep 29 18:36:29 2026] 127.0.0.1:40912 Accepted
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:40912 Closing
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:39311 Accepted
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:39311 Closing
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:14005 Accepted
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:14005 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:62479 Accepted
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:14005 Closing
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:62479 [200]: GET /assets/js/common.js
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:62479 Closing
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:65179 Accepted
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:65179 [200]: GET /assets/css/style.css
+[Tue Sep 29 18:36:30 2026] 127.0.0.1:65179 Closing
+[Tue Sep 29 18:36:50 2026] 127.0.0.1:65202 Accepted
+[Tue Sep 29 18:36:50 2026] 127.0.0.1:65202 Closing
+[Tue Sep 29 18:37:20 2026] 127.0.0.1:65236 Accepted
+[Tue Sep 29 18:37:20 2026] 127.0.0.1:65236 Closing
+[Tue Sep 29 18:37:50 2026] 127.0.0.1:65269 Accepted
+[Tue Sep 29 18:37:50 2026] 127.0.0.1:65269 Closing
+[Tue Sep 29 18:38:20 2026] 127.0.0.1:39369 Accepted
+[Tue Sep 29 18:38:20 2026] 127.0.0.1:39369 Closing
+[Tue Sep 29 18:38:50 2026] 127.0.0.1:28828 Accepted
+[Tue Sep 29 18:38:50 2026] 127.0.0.1:28828 Closing
+[Tue Sep 29 18:39:20 2026] 127.0.0.1:40026 Accepted
+[Tue Sep 29 18:39:20 2026] 127.0.0.1:40026 Closing
+[Tue Sep 29 18:39:50 2026] 127.0.0.1:26915 Accepted
+[Tue Sep 29 18:39:50 2026] 127.0.0.1:26915 Closing
+[Tue Sep 29 18:40:20 2026] 127.0.0.1:11237 Accepted
+[Tue Sep 29 18:40:20 2026] 127.0.0.1:11237 Closing
