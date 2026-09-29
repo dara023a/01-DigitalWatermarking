@@ -171,7 +171,7 @@ def bits_to_watermark(bits: np.ndarray, shape: Tuple[int, int]) -> np.ndarray:
     return bits.reshape(shape).astype(np.uint8)
 
 
-# ---------------------------------------------------------------------------
+# ---------------------------------------------h------------------------------
 # 2. Capacity check
 # ---------------------------------------------------------------------------
 
@@ -367,7 +367,7 @@ def extract_watermark(
     coeff1_pos = tuple(metadata["coeff_positions"][0])
     coeff2_pos = tuple(metadata["coeff_positions"][1])
     n_bits = metadata["n_bits"]
-    redundancy = int(metadata.get("redundancy", 1))
+    redundancy = int(metadata.get("redundancy", 3))
 
     default_grid = (processed_size[0] // block_size, processed_size[1] // block_size)
     n_rows, n_cols = tuple(metadata.get("block_grid_shape", list(default_grid)))
