@@ -1,0 +1,71 @@
+# Environment & Secrets
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+.phpunit.cache
+
+# Dependencies
+/node_modules
+/vendor
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Storage & Logs
+/storage/*.key
+/storage/private
+/storage/app/private/watermark-runs
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/storage/logs
+/storage/debugbar
+/storage/clockwork
+
+# Compiled Assets
+/public/build
+/public/hot
+/public/storage
+
+# Database
+/database/database.sqlite
+/database/*.sqlite-journal
+
+# IDE & OS
+/.fleet
+/.idea
+/.vscode
+/.zed
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Laravel
+Homestead.json
+Homestead.yaml
+auth.json
+
+# NPM
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Backup
+*.bak
+*.swp
+*.swo
+*~
